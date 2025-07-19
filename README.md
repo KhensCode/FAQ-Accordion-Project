@@ -1,6 +1,7 @@
 # FAQ Accordion Project  
 
 A simple FAQ accordion component built with HTML, CSS, and JavaScript.  
+Heres the link['https://codepen.io/KhensCode/pen/ByojdWG']
 
 ## Features  
 - Clickable dropdown buttons to show/hide answers  
